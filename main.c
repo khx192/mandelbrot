@@ -43,9 +43,9 @@ int main(void)
 			max_iter += 1;
 
 		if (IsKeyPressed(KEY_R)) {
-			zoom = 1.0;
-			offset_x = 0.0;
-			offset_y = 0.0;
+			zoom = 1.0f;
+			offset_x = 0.0f;
+			offset_y = 0.0f;
 			max_iter = MAX_ITER;
 		}
 
