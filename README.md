@@ -13,10 +13,10 @@ $ ./mandelbrot
 
 ## Controls
 
-* `h` or `Arrow Left ' - move left
-* `j` or `Arrow Down' - move down
-* `k` or `Arrow Up' - move up
-* `l` or `Arrow Right' - move right
+* `h` or `Arrow Left` - move left
+* `j` or `Arrow Down` - move down
+* `k` or `Arrow Up` - move up
+* `l` or `Arrow Right` - move right
 * `w` - zoom in
 * `s` - zoom out
 * `e` - increase the number of max iterations
