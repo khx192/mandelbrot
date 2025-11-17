@@ -5,10 +5,11 @@ Mandelbrot set visual representation with Raylib and GLSL fragment shader.
 
 ![demo](./demo.png)
 
-Compile
+Quick Start
 -----------
 
 	$ ./build.sh
+	$ ./mandelbrot
 
 Controls
 --------
